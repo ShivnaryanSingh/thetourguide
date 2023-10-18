@@ -1,75 +1,73 @@
+.MAINDIV
+{
+width: 100%;
+height: 400px;
+text-align: left;
+text-align:start;
 
-         
-                 .MAINDIV
-          {
-          width: 100%;
-          height: 400px;
-          text-align: left;
-          text-align:start;
-          color:rgb(255, 255, 255);
-          }
-          .menubutton{
-                  height: 40px;                  
-                  font-weight: bold;
-                  margin-top: 30px;
-                  margin-left: 23%;
-                  padding: 2px;
-                  font-family: Georgia, 'Times New Roman', Times, serif;  
-              }
-              .name{
-                text-shadow: #ff0;
-                font-size: 60px;
-                margin-top: 10PX;
-                box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-                background-color: rgb(86, 96, 105);
-            }
-              .mid1
-              {
-              width: 30%;
-              height: 20px;
-              margin-left: 35%;
-              margin-top: 50px;
-              color: rgb(255, 255, 255);
-              }
-  .div3
-  {
-  width: 100%;
-  height: 180px;
-  margin-left: 10%;
-  color:rgb(255, 255, 255);
-  text-size-adjust: 10px;
-  text-shadow:black;
-  }
-    .middlediv{
-  width: auto;
-  height: 1420px;
-  align-items: center;
-  color: aliceblue;
-          }
-        .h2{
-          padding-bottom: 0%;
-          object-position: 0%;
-          }
-          .body{
-          width: auto;
-          height: 1800px;
-          background-position: 0%;
-          size: 200px;
-          overflow-x: hidden;
-          }
-  
-
-            .menubutton{
-              width: 50PX;
-              height: 30px;
-              padding: 0.5px;
-              background-color: rgba(240, 248, 255, 0.562);
-              margin-top: 5px;
-              margin-right: 10px;
-              margin: center;
-              font-family: Georgia, 'Times New Roman', Times, serif;
-              
-            }
+}
+.menubutton{
+height: 40px;                  
+font-weight: bold;
+margin-top: 30px;
+margin-left: 23%;
+padding: 2px;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.menutabs{
+width: 70%;
+height: 40px;
+margin-left: 30%;
+float: right;           
+color: rgb(245, 245, 245);
+margin-top: 30px;             
+}
+.name{
+font-size: 60px;
+margin-top: 10px;
+box-shadow: 2px 2px 4px rgb(247, 115, 8);
+}
+.mid1
+{
+width: 30%;
+height: 20px;
+margin-left: 35%;
+margin-top: 50px;
+}
+.div3
+{
+width: 100%;
+height: 180px;
+margin-left: 10%;
+text-size-adjust: 10px;
+text-shadow:black;
+}
+.middlediv{
+width: auto;
+height: 1420px;
+align-items: center;
+}
+.h2{
+padding-bottom: 0%;
+object-position: 0%;
+}
+.body{
+width: auto;
+height: 1800px;
+background-position: 0%;
+size: 200px;
+overflow-x: hidden;
+}
+.menubutton{
+width: 50PX;
+height: 30px;
+padding: 0.5px;
+background-color: rgb(247, 115, 8);
+margin-top: 5px;
+margin-right: 10px;
+margin: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 
       
